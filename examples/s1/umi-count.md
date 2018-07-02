@@ -74,7 +74,7 @@ function mapStateToProps(state) {
 export default connect(mapStateToProps)(Example);
 ```
 
-### /src/pages/index/models/Umi版的count
+### /src/pages/index/models/count.js
 ```
 export default {
     namespace: 'count',
